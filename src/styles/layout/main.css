@@ -1,0 +1,13 @@
+
+@media screen and (min-width: 0px) {
+    .main {
+        padding: 15px;
+        color: #fff;
+    }
+}
+@media screen and (min-width: 350px) {
+    .main {
+        padding: 30px;
+        color: #fff;
+    }
+}

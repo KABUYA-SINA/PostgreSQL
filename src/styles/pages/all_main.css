@@ -1,0 +1,15 @@
+
+@media screen and (min-width: 0px) {
+    .main-signin,
+    .main-login,
+    .main__content {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .main__content {
+        padding: 50px;
+    }
+}
+
